@@ -1,6 +1,6 @@
 # Basic Express App
 
-This project is a modern template for Node.js applications using Express and TypeScript.
+This project is a very basic modern template for Node.js applications using Express and TypeScript.
 
 ## Features
 
